@@ -74,4 +74,6 @@ dependencies {
     ksp("com.google.dagger:hilt-android-compiler:2.51.1")
 
     implementation("io.coil-kt:coil-compose:2.4.0")
+
+    implementation ("com.squareup.okhttp3:logging-interceptor:4.11.0")
 }
