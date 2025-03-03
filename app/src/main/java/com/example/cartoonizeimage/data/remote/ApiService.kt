@@ -14,7 +14,7 @@ import retrofit2.http.Part
 interface ApiService {
 
     @Headers(
-        "x-rapidapi-key: YOUR_KEY_HERE",
+        "x-rapidapi-key: YOUR_API_KEY",
         "x-rapidapi-host: cartoon-yourself.p.rapidapi.com",
     )
 
